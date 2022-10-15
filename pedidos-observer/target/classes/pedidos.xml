@@ -1,0 +1,14 @@
+<pedidos>
+	<pedido>
+		<descricao>Shampoo Davene</descricao>
+		<valor>15.75</valor>
+	</pedido>
+	<pedido>
+		<descricao>Pasta de Engraxar</descricao>
+		<valor>23.00</valor>
+	</pedido>
+	<pedido>
+		<descricao>Lápis de Cor - 100 cores</descricao>
+		<valor>100.01</valor>
+	</pedido>
+</pedidos>

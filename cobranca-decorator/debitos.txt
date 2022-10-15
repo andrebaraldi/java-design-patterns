@@ -1,0 +1,2 @@
+Cliente [nome=marcao, cpf=123456] | CartaoCredito [numero=12341546, nome=barald, vencimento=2023-02, codigoSeguranca=1564] | R$1500.0
+Cliente [nome=clienteBom, cpf=13246] | CartaoCredito [numero=5555, nome=jose, vencimento=2029-05, codigoSeguranca=23] | R$10.0

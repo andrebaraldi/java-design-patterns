@@ -1,0 +1,14 @@
+<contatos>
+	<contato>
+		<nome>João Silva</nome>
+		<mail>joao@email.com</mail>
+	</contato>
+	<contato>
+		<nome>Maria Rita</nome>
+		<mail>mariarita@email.com</mail>
+	</contato>
+	<contato>
+		<nome>Renato Aragão</nome>
+		<mail>renato@email.com</mail>
+	</contato>
+</contatos>

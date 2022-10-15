@@ -9,3 +9,4 @@
 - Chains of Responsability
 - Factory
 - Abstract Factory
+- Dependency Injection
